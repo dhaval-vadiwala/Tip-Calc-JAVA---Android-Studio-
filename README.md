@@ -1,1 +1,1 @@
-# Rando-code
+Tip calculator using Android Studio
